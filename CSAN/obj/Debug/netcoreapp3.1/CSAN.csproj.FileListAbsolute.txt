@@ -1,0 +1,11 @@
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.exe
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.deps.json
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.runtimeconfig.json
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.runtimeconfig.dev.json
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.dll
+C:\Users\aikha\source\repos\CSAN\CSAN\bin\Debug\netcoreapp3.1\CSAN.pdb
+C:\Users\aikha\source\repos\CSAN\CSAN\obj\Debug\netcoreapp3.1\CSAN.csprojAssemblyReference.cache
+C:\Users\aikha\source\repos\CSAN\CSAN\obj\Debug\netcoreapp3.1\CSAN.AssemblyInfoInputs.cache
+C:\Users\aikha\source\repos\CSAN\CSAN\obj\Debug\netcoreapp3.1\CSAN.AssemblyInfo.cs
+C:\Users\aikha\source\repos\CSAN\CSAN\obj\Debug\netcoreapp3.1\CSAN.dll
+C:\Users\aikha\source\repos\CSAN\CSAN\obj\Debug\netcoreapp3.1\CSAN.pdb
